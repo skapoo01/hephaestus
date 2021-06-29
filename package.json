@@ -1,5 +1,6 @@
 {
   "name": "hephaestus",
+  "type": "commonjs",
   "version": "1.0.0",
   "description": "A data structures and algorithms library",
   "main": "index.js",
