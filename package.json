@@ -1,11 +1,15 @@
 {
-  "name": "hephaestus",
+  "name": "@skapoor8/hephaestus",
   "type": "commonjs",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skapoor8/hephaestus"
+  },
   "description": "A data structures and algorithms library",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\""
   },
   "author": "Siddharth Kapoor",
   "license": "ISC"
