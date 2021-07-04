@@ -15,6 +15,11 @@ A data structures and algorithms library
 1. search
     1. binarySearch() 
 2. sort
+    1. quickSort()
+    2. bubbleSort()
+    3. insertionSort()
+    4. mergeSort()
+    5. HeapSort()
 
 ## Usage
 
@@ -89,12 +94,19 @@ Output:
 4. mergeSort()
 5. heapSort()
 
+## Philosophy
+1. Well defined interfaces that enforce invariants
+2. Idiomatic and interchangable interfaces - SLL should be interchangable with JS arrays throughout this lib
+
 ## Questions
 1. Idiomatic error handling?
 2. Printing to console?
 3. Idiomatic interfaces?
+4. Handling large data sets?
 
 ## Pending Improvements
 1. Add iterators where appropriate
 2. Typescript bindings
 3. Add jsDocs
+4. Add other data structures: set, trees, graphs, dll and cll
+5. Add unit tests for data structures
