@@ -110,3 +110,4 @@ Output:
 3. Add jsDocs
 4. Add other data structures: set, trees, graphs, dll and cll
 5. Add unit tests for data structures
+6. Needs es6 wrapper for browser environments, possibly some polyfills
