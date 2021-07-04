@@ -80,7 +80,7 @@ Output:
 8. SLL.put(index, item)
 9. SLL.map(f)
 10. SLL.toString()
-11. SLL.fromArray()ß
+11. SLL.fromArray()
 
 ### Algorithms
 
