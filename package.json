@@ -1,13 +1,13 @@
 {
   "name": "@skapoor8/mjolnir",
   "type": "commonjs",
-  "version": "1.0.1",
+  "version": "0.5.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/skapoor8/hephaestus"
+    "url": "https://github.com/skapoor8/mjolnir"
   },
   "description": "A data structures and algorithms library",
-  "main": "index.js",
+  "main": "index.cjs",
   "scripts": {
     "test": "echo \"Error: no test specified\""
   },
