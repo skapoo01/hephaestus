@@ -1,4 +1,4 @@
-# Mjolnir
+# Mjolnir ![npm (scoped)](https://img.shields.io/npm/v/@skapoor8/mjolnir)
 
 A data structures and algorithms library.
 
