@@ -1,6 +1,6 @@
 # Mjolnir
 
-A data structures and algorithms library
+A data structures and algorithms library.
 
 
 ## Package Contents
